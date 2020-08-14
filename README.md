@@ -18,7 +18,7 @@ Rendering plain text is a great way to test the behaviors of our routes, but it 
 
 ```ruby
 get '/' do
-	"<h1>Hello World</h1>"
+	"<h1>Hello World?</h1>"
 end
 ``` 
 
